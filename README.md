@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🌟 Motto: Nothing is impossible for a willing heart.
 - 🌱 Hobby: Coding & Piano & 🏀 &  🏊‍♂️ & 🏸 & 🚴‍♂️ & 🎤 & etc.
-- 🤟 Blog: [Harry's Blog](www.harryxiong24.com)
+- 🤟 Blog: [Harry's Blog](https://www.harryxiong24.com)
 - 🏡 Hometown: China
 - 🔭 I'm currently working on Tencent.
 - 📫 How to reach me: 💌haoweixiong@gmail.com & 💌harryxiong24@qq.com & 💌1291192015@qq.com
