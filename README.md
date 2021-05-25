@@ -1,4 +1,4 @@
-### Hey 👋
+### Hi there, I'm Harry Xiong 👋
 
 <!--
 **HarryXiong24/HarryXiong24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### I'm Harry Xiong 
+- 🌟 Motto: Nothing is impossible for a willing heart.
+- 🌱 Hobby: Coding & Piano & 🏀 &  🏊‍♂️ & 🏸 & 🚴‍♂️ & 🎤 & etc.
+- 🤟 Blog: [Harry's Blog](www.harryxiong24.com)
+- 🏡 Hometown: China
+- 🔭 I'm currently working on Tencent.
+- 📫 How to reach me: 💌haoweixiong@gmail.com & 💌harryxiong24@qq.com & 💌1291192015@qq.com
+- ⚡ Fun fact: Oops!😝😝😝
+- 😊 Nice to meet you!
