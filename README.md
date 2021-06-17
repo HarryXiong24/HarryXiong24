@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+**Personal Info**
+
 - 🌟 Motto: Nothing is impossible for a willing heart.
 - 🌱 Hobby: Coding & Piano & 🏀 &  🏊‍♂️ & 🏸 & 🚴‍♂️ & 🎤 & etc.
 - 🤟 Blog: [Harry's Blog](https://www.harryxiong24.com)
@@ -23,3 +25,24 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 💌haoweixiong@gmail.com & 💌harryxiong24@qq.com & 💌1291192015@qq.com
 - ⚡ Fun fact: Oops!😝😝😝
 - 😊 Nice to meet you!
+
+**Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+
+**GitHub Stats Card**
+
+![harry's github stats card](https://github-readme-stats.anuraghazra1.vercel.app/api?username=harryxiong24&show_icons=true&include_all_commits=true&theme=gruvbox)
+
+**Top Languages Card**
+
+![harry's top languages card](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=harryxiong24&langs_count=10&layout=compact&theme=gruvbox)
+
+
+<!-- **Item**
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats) -->
+
+
