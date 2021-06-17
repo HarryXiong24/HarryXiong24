@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 💌harryxiong24@gmail.com & 💌harryxiong24@qq.com
 - 😊 Nice to meet you!
 
-**Languages and Tools:**  
+**Languages and Tools**  
 
 <code><img height="20" src="./assets/JavaScript.png"></code>
 <code><img height="20" src="./assets/typescript.png"></code>
@@ -40,13 +40,11 @@ Here are some ideas to get you started:
 <code><img height="20" src="./assets/scss.png"></code>
 <code><img height="20" src="./assets/less.png"></code>
 
-**GitHub Stats Card**
+**Coding Info**
 
 ![harry's github stats card](https://github-readme-stats.anuraghazra1.vercel.app/api?username=harryxiong24&show_icons=true&include_all_commits=true&theme=gruvbox)
 
-**Top Languages Card**
-
-![harry's top languages card](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=harryxiong24&langs_count=12&layout=compact&theme=gruvbox)
+![harry's top languages card](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=harryxiong24&langs_count=10&layout=compact&theme=gruvbox)
 
 **Following Me**
 
