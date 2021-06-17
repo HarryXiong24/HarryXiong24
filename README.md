@@ -15,15 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**Personal Info**
+**About Me**
 
 - 🌟 Motto: Nothing is impossible for a willing heart.
 - 🌱 Hobby: Coding & Piano & 🏀 &  🏊‍♂️ & 🏸 & 🚴‍♂️ & 🎤 & etc.
 - 🤟 Blog: [Harry's Blog](https://www.harryxiong24.com)
 - 🏡 Hometown: China
 - 🔭 I'm currently working on Tencent.
-- 📫 How to reach me: 💌haoweixiong@gmail.com & 💌harryxiong24@qq.com & 💌1291192015@qq.com
 - ⚡ Fun fact: Oops!😝😝😝
+- 📫 How to reach me: 💌harryxiong24@gmail.com & 💌harryxiong24@qq.com
 - 😊 Nice to meet you!
 
 **Languages and Tools:**  
@@ -31,7 +31,14 @@ Here are some ideas to get you started:
 <code><img height="20" src="./assets/JavaScript.png"></code>
 <code><img height="20" src="./assets/typescript.png"></code>
 <code><img height="20" src="./assets/Vue.png"></code>
+<code><img height="20" src="./assets/react.png"></code>
 <code><img height="20" src="./assets/nodejs.png"></code>
+<code><img height="20" src="./assets/java.png"></code>
+<code><img height="20" src="./assets/python.png"></code>
+<code><img height="20" src="./assets/html.png"></code>
+<code><img height="20" src="./assets/css.png"></code>
+<code><img height="20" src="./assets/scss.png"></code>
+<code><img height="20" src="./assets/less.png"></code>
 
 **GitHub Stats Card**
 
@@ -39,11 +46,9 @@ Here are some ideas to get you started:
 
 **Top Languages Card**
 
-![harry's top languages card](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=harryxiong24&langs_count=10&layout=compact&theme=gruvbox)
+![harry's top languages card](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=harryxiong24&langs_count=12&layout=compact&theme=gruvbox)
 
-
-
-**About Me**
+**Following Me**
 
 <a href="https://github.com/HarryXiong24">
   <img align="left" alt="Harry Xiong | GitHub" width="21px" height="20" src="./assets/github.svg" /></a>
