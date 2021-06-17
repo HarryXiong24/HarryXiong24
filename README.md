@@ -42,9 +42,9 @@ Here are some ideas to get you started:
 
 **Coding Info**
 
-![harry's github stats card](https://github-readme-stats.anuraghazra1.vercel.app/api?username=harryxiong24&show_icons=true&include_all_commits=true&theme=gruvbox)
+![harry's github stats card](https://github-readme-stats.anuraghazra1.vercel.app/api?username=harryxiong24&count_private=true&show_icons=true&include_all_commits=true&theme=gruvbox)
 
-![harry's top languages card](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=harryxiong24&langs_count=10&layout=compact&theme=gruvbox)
+![harry's top languages card](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=harryxiong24&hide=css,html,scss,less&langs_count=10&layout=compact&theme=gruvbox)
 
 **Following Me**
 
