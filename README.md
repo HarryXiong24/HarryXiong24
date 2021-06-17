@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <code><img height="20" src="./assets/JavaScript.png"></code>
 <code><img height="20" src="./assets/typescript.png"></code>
 <code><img height="20" src="./assets/Vue.png"></code>
-<code><img height="20" src="./assets/Nodejs.png"></code>
+<code><img height="20" src="./assets/nodejs.png"></code>
 
 **GitHub Stats Card**
 
@@ -45,13 +45,14 @@ Here are some ideas to get you started:
 
 **About Me**
 
-<a href="https://twitter.com/anuraghazru">
-  <img align="left" alt="Harry Xiong | GitHub" width="21px" height="20" src="./assets/GitHub.svg" /></a>
+<a href="https://github.com/HarryXiong24">
+  <img align="left" alt="Harry Xiong | GitHub" width="21px" height="20" src="./assets/github.svg" /></a>
 <a href="https://www.instagram.com/harryxiong24">
   <img align="left" alt="Harry Xiong | Instagram" width="21px" height="20" src="./assets/instagram.svg" /></a>
 <a href="https://twitter.com/harryxiong24">
   <img align="left" alt="Harry Xiong | Twitter" width="21px" height="20" src="./assets/twitter.svg" /></a>
-
+<a href="https://weibo.com/6571395830/profile?rightmod=1&wvr=6&mod=personinfo&is_all=1">
+  <img align="left" alt="Harry Xiong | Weibo" width="21px" height="20" src="./assets/weibo.svg" /></a>
 
 
 <!-- **Item**
