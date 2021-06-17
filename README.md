@@ -28,9 +28,10 @@ Here are some ideas to get you started:
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+<code><img height="20" src="./assets/JavaScript.png"></code>
+<code><img height="20" src="./assets/typescript.png"></code>
+<code><img height="20" src="./assets/Vue.png"></code>
+<code><img height="20" src="./assets/Nodejs.png"></code>
 
 **GitHub Stats Card**
 
@@ -41,8 +42,21 @@ Here are some ideas to get you started:
 ![harry's top languages card](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=harryxiong24&langs_count=10&layout=compact&theme=gruvbox)
 
 
+
+**About Me**
+
+<a href="https://twitter.com/anuraghazru">
+  <img align="left" alt="Harry Xiong | GitHub" width="21px" height="20" src="./assets/GitHub.svg" /></a>
+<a href="https://www.instagram.com/harryxiong24">
+  <img align="left" alt="Harry Xiong | Instagram" width="21px" height="20" src="./assets/instagram.svg" /></a>
+<a href="https://twitter.com/harryxiong24">
+  <img align="left" alt="Harry Xiong | Twitter" width="21px" height="20" src="./assets/twitter.svg" /></a>
+
+
+
 <!-- **Item**
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats) -->
+
 
 
