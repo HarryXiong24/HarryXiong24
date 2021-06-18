@@ -39,6 +39,9 @@ Here are some ideas to get you started:
 <code><img height="20" src="./assets/css.png"></code>
 <code><img height="20" src="./assets/scss.png"></code>
 <code><img height="20" src="./assets/less.png"></code>
+<code><img height="20" src="./assets/android.png"></code>
+<code><img height="20" src="./assets/c.png"></code>
+<code><img height="20" src="./assets/sql.png"></code>
 
 **Coding Info**
 
