@@ -1,4 +1,4 @@
-### Hi there, I'm Harry Xiong 👋
+## Hi there, I'm Harry Xiong 👋
 
 <!--
 **HarryXiong24/HarryXiong24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**About Me**
+#### :raised_hand: About Me
 
 - 🌟 Motto: Nothing is impossible for a willing heart.
 - 🌱 Hobby: Coding & Piano & 🏀 &  🏊‍♂️ & 🏸 & 🚴‍♂️ & 🎤 & etc.
@@ -26,30 +26,33 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 💌harryxiong24@gmail.com & 💌harryxiong24@qq.com
 - 😊 Nice to meet you!
 
-**Languages and Tools**  
+#### 🛠 Languages and Tools  
 
-<code><img height="20" src="./assets/JavaScript.png"></code>
-<code><img height="20" src="./assets/typescript.png"></code>
-<code><img height="20" src="./assets/Vue.png"></code>
-<code><img height="20" src="./assets/react.png"></code>
-<code><img height="20" src="./assets/nodejs.png"></code>
-<code><img height="20" src="./assets/java.png"></code>
-<code><img height="20" src="./assets/python.png"></code>
-<code><img height="20" src="./assets/html.png"></code>
-<code><img height="20" src="./assets/css.png"></code>
-<code><img height="20" src="./assets/scss.png"></code>
-<code><img height="20" src="./assets/less.png"></code>
-<code><img height="20" src="./assets/android.png"></code>
-<code><img height="20" src="./assets/c.png"></code>
-<code><img height="20" src="./assets/sql.png"></code>
+<p>
+  <code><img height="20" src="./assets/JavaScript.png"></code>
+  <code><img height="20" src="./assets/typescript.png"></code>
+  <code><img height="20" src="./assets/Vue.png"></code>
+  <code><img height="20" src="./assets/react.png"></code>
+  <code><img height="20" src="./assets/nodejs.png"></code>
+  <code><img height="20" src="./assets/java.png"></code>
+  <code><img height="20" src="./assets/python.png"></code>
+  <code><img height="20" src="./assets/html.png"></code>
+  <code><img height="20" src="./assets/css.png"></code>
+  <code><img height="20" src="./assets/scss.png"></code>
+  <code><img height="20" src="./assets/less.png"></code>
+  <code><img height="20" src="./assets/android.png"></code>
+  <code><img height="20" src="./assets/c.png"></code>
+  <code><img height="20" src="./assets/sql.png"></code>
+</p>
+  
+#### :trophy: Coding Info
 
-**Coding Info**
+<p>
+  <img height="186em" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=harryxiong24&count_private=true&show_icons=true&include_all_commits=true&theme=gruvbox"/>
+  <img height="186em" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=harryxiong24&hide=css,html,scss,less&langs_count=10&layout=compact&theme=gruvbox"/>
+</p>
 
-![harry's github stats card](https://github-readme-stats.anuraghazra1.vercel.app/api?username=harryxiong24&count_private=true&show_icons=true&include_all_commits=true&theme=gruvbox)
-
-![harry's top languages card](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=harryxiong24&hide=css,html,scss,less&langs_count=10&layout=compact&theme=gruvbox)
-
-**Following Me**
+#### :hearts: Following Me
 
 <a href="https://github.com/HarryXiong24">
   <img align="left" alt="Harry Xiong | GitHub" width="21px" height="20" src="./assets/github.svg" /></a>
