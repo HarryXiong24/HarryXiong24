@@ -60,6 +60,8 @@ Here are some ideas to get you started:
   <img align="left" alt="Harry Xiong | Instagram" width="21px" height="20" src="./assets/instagram.svg" /></a>
 <a href="https://twitter.com/harryxiong24">
   <img align="left" alt="Harry Xiong | Twitter" width="21px" height="20" src="./assets/twitter.svg" /></a>
+<a href="https://www.facebook.com/profile.php?id=100029583726018">
+  <img align="left" alt="Harry Xiong | Weibo" width="21px" height="20" src="./assets/facebook.svg" /></a>
 <a href="https://weibo.com/6571395830/profile?rightmod=1&wvr=6&mod=personinfo&is_all=1">
   <img align="left" alt="Harry Xiong | Weibo" width="21px" height="20" src="./assets/weibo.svg" /></a>
 
