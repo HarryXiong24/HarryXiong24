@@ -48,7 +48,8 @@ Here are some ideas to get you started:
 #### :trophy: Coding Info
 
 <p>
-<img height="186em" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=harryxiong24&count_private=true&show_icons=true&include_all_commits=true&theme=gruvbox"/> <img height="186em" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=harryxiong24&hide=css,html,scss,less&langs_count=10&layout=compact&theme=gruvbox"/>
+  <img height="186em" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=harryxiong24&count_private=true&show_icons=true&include_all_commits=true&theme=gruvbox"/>
+  <img height="186em" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=harryxiong24&hide=css,html,scss,less,stylus&langs_count=10&layout=compact&theme=gruvbox"/>
 </p>
 
 #### :hearts: Following Me
