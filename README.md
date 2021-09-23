@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 #### :raised_hand: About Me
 
 - 🌟 Motto: Nothing is impossible for a willing heart.
-- 🌱 Hobby: Coding & Piano & 🏀 &  🏊‍♂️ & 🏸 & 🚴‍♂️ & 🎤 & etc.
+- 🌱 Hobby: Coding & Piano & Reading & 🏀 &  🏊‍♂️ & 🏸 & 🚴‍♂️ & 🎤 & etc.
 - 🤟 Blog: [Harry's Blog](https://www.harryxiong24.com)
 - 🏡 Hometown: China
 - ⚡ Fun fact: Oops!😝😝😝
