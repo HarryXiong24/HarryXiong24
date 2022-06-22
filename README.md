@@ -19,10 +19,9 @@ Here are some ideas to get you started:
 #### :raised_hand: About Me
 
 - 🌟 Motto: Nothing is impossible for a willing heart.
-- 🌱 Hobby: Coding & Piano & Reading & 🏀 &  🏊‍♂️ & 🏸 & 🚴‍♂️ & 🎤 & etc.
-- 🤟 Blog: [Harry's Blog](https://www.harryxiong24.com)
+- 🌱 Hobby: Coding & Piano & Reading & 🏀 &  🏊‍♂️ & 🏸 & 🚴‍♂️ & 🎤 & etc.<!-- - 🤟 Blog: [Harry's Blog](https://www.harryxiong24.com) -->
 - 🏡 Hometown: China
-- ⚡ Fun fact: Oops!😝😝😝
+- ⚡ Fun fact: Oops! 😝😝😝
 - 📫 How to reach me: 💌harryxiong24@gmail.com & 💌harryxiong24@qq.com
 - 😊 Nice to meet you!
 
@@ -52,9 +51,11 @@ Here are some ideas to get you started:
   <img height="186em" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=harryxiong24&hide=css,html,scss,less,stylus&langs_count=10&layout=compact&theme=gruvbox"/>
 </p>
 
+<!--
 <p>
   <img height="286em" src="https://activity-graph.herokuapp.com/graph?username=harryxiong24&theme=xcode"/>
 </p>
+-->
 
 #### :hearts: Following Me
 
