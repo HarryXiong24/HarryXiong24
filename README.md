@@ -28,20 +28,22 @@ Here are some ideas to get you started:
 #### 🛠 Languages and Tools  
 
 <p>
-  <code><img height="20" src="./assets/JavaScript.png"></code>
   <code><img height="20" src="./assets/typescript.png"></code>
-  <code><img height="20" src="./assets/Vue.png"></code>
+  <code><img height="20" src="./assets/JavaScript.png"></code>
   <code><img height="20" src="./assets/react.png"></code>
+  <code><img height="20" src="./assets/Vue.png"></code>
   <code><img height="20" src="./assets/nodejs.png"></code>
-  <code><img height="20" src="./assets/java.png"></code>
   <code><img height="20" src="./assets/python.png"></code>
+  <code><img height="20" src="./assets/java.png"></code>
+  <code><img height="20" src="./assets/c.png"></code>
+  <code><img height="20" src="./assets/sql.png"></code>
+<!--
   <code><img height="20" src="./assets/html.png"></code>
   <code><img height="20" src="./assets/css.png"></code>
   <code><img height="20" src="./assets/scss.png"></code>
   <code><img height="20" src="./assets/less.png"></code>
   <code><img height="20" src="./assets/android.png"></code>
-  <code><img height="20" src="./assets/c.png"></code>
-  <code><img height="20" src="./assets/sql.png"></code>
+--> 
 </p>
   
 #### :trophy: Coding Info
