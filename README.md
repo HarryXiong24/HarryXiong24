@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 🌱 Hobby: Coding & Piano & Reading & 🏀 &  🏊‍♂️ & 🏸 & 🚴‍♂️ & 🎤 & etc.<!-- - 🤟 Blog: [Harry's Blog](https://www.harryxiong24.com) -->
 - 🏡 Hometown: China
 - ⚡ Fun fact: Oops! 😝😝😝
-- 📫 How to reach me: 💌harryxiong24@gmail.com & 💌harryxiong24@qq.com
+- 📫 How to reach me: 💌harryxiong24@gmail.com & 💌harryxiong24@163.com
 - 😊 Nice to meet you!
 
 #### 🛠 Languages and Tools  
