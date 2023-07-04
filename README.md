@@ -19,9 +19,8 @@ Here are some ideas to get you started:
 #### :raised_hand: About Me
 
 - 🌟 Motto: Nothing is impossible for a willing heart.
-- 🌱 Hobby: Coding & Piano & Reading & 🏀 &  🏊‍♂️ & 🏸 & 🚴‍♂️ & 🎤 & etc.<!-- - 🤟 Blog: [Harry's Blog](https://www.harryxiong24.com) -->
-- 🏡 Hometown: China
-- ⚡ Fun fact: Oops! 😝😝😝
+- 🌱 Hobby: Coding & Piano & Reading & 🏀 &  🏊‍♂️ & 🏸 & 🚴‍♂️ & 🎤 & etc.
+- 🤟 Blog: [Harry's Blog](https://harryxiong24.github.io)
 - 📫 How to reach me: 💌harryxiong24@gmail.com & 💌harryxiong24@163.com
 - 😊 Nice to meet you!
 
