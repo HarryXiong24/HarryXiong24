@@ -33,6 +33,7 @@ Here are some ideas to get you started:
   <code><img height="20" src="./assets/Vue.png"></code>
   <code><img height="20" src="./assets/nodejs.png"></code>
   <code><img height="20" src="./assets/python.png"></code>
+  <code><img width="20" height="20" src="./assets/golang.png"></code>
   <code><img height="20" src="./assets/java.png"></code>
   <code><img height="20" src="./assets/c.png"></code>
   <code><img height="20" src="./assets/sql.png"></code>
