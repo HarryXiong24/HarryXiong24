@@ -72,12 +72,12 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/HarryXiong24">
   <img align="left" alt="Harry Xiong | GitHub" width="20" height="20" src="./assets/github.svg" /></a>
+<a href="https://www.linkedin.com/in/haoweixiong">
+  <img align="left" alt="Harry Xiong | LinkedIn" width="20" height="20" src="./assets/linkedin.png" /></a>
 <a href="https://www.instagram.com/harryxiong24">
   <img align="left" alt="Harry Xiong | Instagram" width="20" height="20" src="./assets/instagram.svg" /></a>
 <a href="https://twitter.com/harryxiong24">
   <img align="left" alt="Harry Xiong | Twitter" width="20" height="20" src="./assets/twitter.svg" /></a>
-<a href="https://www.linkedin.com/in/haoweixiong">
-  <img align="left" alt="Harry Xiong | LinkedIn" width="20" height="20" src="./assets/linkedin.png" /></a>
 <a href="https://juejin.cn/user/1319894200641784">
   <img align="left" alt="Harry Xiong | Juejin" width="20" height="20" src="./assets/juejin.svg" /></a>
 
