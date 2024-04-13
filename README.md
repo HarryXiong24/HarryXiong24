@@ -24,26 +24,35 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 💌harryxiong24@gmail.com & 💌harryxiong24@163.com
 - 😊 Nice to meet you!
 
-#### 🛠 Languages and Tools  
+#### 📈 Languages 
 
 <p>
   <code><img height="20" src="./assets/typescript.png"></code>
-  <code><img height="20" src="./assets/JavaScript.png"></code>
+  <code><img height="20" src="./assets/javaScript.png"></code>
   <code><img height="20" src="./assets/react.png"></code>
-  <code><img height="20" src="./assets/Vue.png"></code>
+  <code><img height="20" src="./assets/nextjs.png"></code>
+  <code><img height="20" src="./assets/vue.png"></code>
   <code><img height="20" src="./assets/nodejs.png"></code>
   <code><img height="20" src="./assets/python.png"></code>
-  <code><img width="20" height="20" src="./assets/golang.png"></code>
+  <code><img height="20" src="./assets/sql.png"></code>
+  <code><img height="20" src="./assets/golang.png"></code>
+  <code><img height="20" src="./assets/julia.png"></code>
   <code><img height="20" src="./assets/java.png"></code>
   <code><img height="20" src="./assets/c.png"></code>
-  <code><img height="20" src="./assets/sql.png"></code>
-<!--
-  <code><img height="20" src="./assets/html.png"></code>
-  <code><img height="20" src="./assets/css.png"></code>
-  <code><img height="20" src="./assets/scss.png"></code>
-  <code><img height="20" src="./assets/less.png"></code>
-  <code><img height="20" src="./assets/android.png"></code>
---> 
+
+</p>
+
+#### 🛠 Tools
+
+<p>
+  <code><img height="20" src="./assets/git.png"></code>
+  <code><img height="20" src="./assets/docker.png"></code>
+  <code><img height="20" src="./assets/linux.png"></code>
+  <code><img height="20" src="./assets/vscode.png"></code>
+  <code><img height="20" src="./assets/webstorm.png"></code>
+  <code><img height="20" src="./assets/pycharm.png"></code>
+  <code><img height="20" src="./assets/intellij-idea.png"></code>
+
 </p>
   
 #### :trophy: Coding Info
@@ -62,15 +71,15 @@ Here are some ideas to get you started:
 #### :hearts: Following Me
 
 <a href="https://github.com/HarryXiong24">
-  <img align="left" alt="Harry Xiong | GitHub" width="21px" height="20" src="./assets/github.svg" /></a>
+  <img align="left" alt="Harry Xiong | GitHub" width="20" height="20" src="./assets/github.svg" /></a>
 <a href="https://www.instagram.com/harryxiong24">
-  <img align="left" alt="Harry Xiong | Instagram" width="21px" height="20" src="./assets/instagram.svg" /></a>
+  <img align="left" alt="Harry Xiong | Instagram" width="20" height="20" src="./assets/instagram.svg" /></a>
 <a href="https://twitter.com/harryxiong24">
-  <img align="left" alt="Harry Xiong | Twitter" width="21px" height="20" src="./assets/twitter.svg" /></a>
-<a href="https://www.facebook.com/profile.php?id=100029583726018">
-  <img align="left" alt="Harry Xiong | Weibo" width="21px" height="20" src="./assets/facebook.svg" /></a>
-<a href="https://weibo.com/6571395830/profile?rightmod=1&wvr=6&mod=personinfo&is_all=1">
-  <img align="left" alt="Harry Xiong | Weibo" width="21px" height="20" src="./assets/weibo.svg" /></a>
+  <img align="left" alt="Harry Xiong | Twitter" width="20" height="20" src="./assets/twitter.svg" /></a>
+<a href="https://www.linkedin.com/in/haoweixiong">
+  <img align="left" alt="Harry Xiong | LinkedIn" width="20" height="20" src="./assets/linkedin.png" /></a>
+<a href="https://juejin.cn/user/1319894200641784">
+  <img align="left" alt="Harry Xiong | Juejin" width="20" height="20" src="./assets/juejin.svg" /></a>
 
 
 <!-- **Item**
