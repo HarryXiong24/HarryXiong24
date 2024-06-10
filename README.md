@@ -58,8 +58,8 @@ Here are some ideas to get you started:
 #### :trophy: Coding Info
 
 <p>
-  <img height="206em" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=harryxiong24&count_private=true&show_icons=true&include_all_commits=true&theme=gruvbox"/>
-  <img height="206em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harryxiong24&layout=compact&theme=gruvbox&langs_count=16&hide=html,scss,css,less,C%2B%2B,Makefile,Handlebars,MATLAB,Jupyter%20Notebook"/>
+  <img height="224em" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=harryxiong24&count_private=true&show_icons=true&include_all_commits=true&theme=gruvbox"/>
+  <img height="224em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harryxiong24&layout=compact&theme=gruvbox&langs_count=16&hide=html,scss,css,less,Makefile,Handlebars,MATLAB,Jupyter%20Notebook"/>
 </p>
 
 <!--
