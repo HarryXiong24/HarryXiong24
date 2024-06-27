@@ -33,6 +33,8 @@ Here are some ideas to get you started:
   <code><img height="20" src="./assets/nextjs.png"></code>
   <code><img height="20" src="./assets/vue.png"></code>
   <code><img height="20" src="./assets/nodejs.png"></code>
+  <code><img height="20" src="./assets/objective-c.png"></code>
+  <code><img height="20" src="./assets/swift.png"></code>
   <code><img height="20" src="./assets/python.png"></code>
   <code><img height="20" src="./assets/sql.png"></code>
   <code><img height="20" src="./assets/golang.png"></code>
@@ -50,6 +52,7 @@ Here are some ideas to get you started:
   <code><img height="20" src="./assets/linux.png"></code>
   <code><img height="20" src="./assets/vscode.png"></code>
   <code><img height="20" src="./assets/webstorm.png"></code>
+  <code><img height="20" src="./assets/xcode.png"></code>
   <code><img height="20" src="./assets/pycharm.png"></code>
   <code><img height="20" src="./assets/intellij-idea.png"></code>
 
