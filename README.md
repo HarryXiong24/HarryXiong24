@@ -29,15 +29,15 @@ Here are some ideas to get you started:
 <p>
   <code><img height="20" src="./assets/typescript.png"></code>
   <code><img height="20" src="./assets/javaScript.png"></code>
+  <code><img height="20" src="./assets/golang.png"></code>
   <code><img height="20" src="./assets/react.png"></code>
   <code><img height="20" src="./assets/nextjs.png"></code>
   <code><img height="20" src="./assets/nodejs.png"></code>
+  <code><img height="20" src="./assets/sql.png"></code>
   <code><img height="20" src="./assets/vue.png"></code>
-  <code><img height="20" src="./assets/golang.png"></code>
   <code><img height="20" src="./assets/objective-c.png"></code>
   <code><img height="20" src="./assets/swift.png"></code>
   <code><img height="20" src="./assets/python.png"></code>
-  <code><img height="20" src="./assets/sql.png"></code>
   <code><img height="20" src="./assets/julia.png"></code>
   <code><img height="20" src="./assets/java.png"></code>
   <code><img height="20" src="./assets/c.png"></code>
