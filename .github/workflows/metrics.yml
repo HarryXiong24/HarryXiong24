@@ -1,0 +1,45 @@
+name: Metrics
+on:
+  # 每天午夜运行一次
+  schedule: [{cron: "0 0 * * *"}]
+  # 允许你手动点按钮运行（方便测试）
+  workflow_dispatch:
+  # 每次修改主分支也运行
+  push: {branches: ["master", "main"]}
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # 这里引用刚才藏好的 Token
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # === 核心配置 ===
+          # 生成的文件名
+          filename: github-metrics.svg
+          
+          # 你的 GitHub ID
+          user: HarryXiong24
+          
+          # 开启语言分析插件
+          plugin_languages: yes
+          
+          # 这里是你之前 URL 里想要屏蔽的列表
+          plugin_languages_ignored: >-
+            html, css, scss, less,
+            ruby, makefile, handlebars, matlab,
+            dockerfile, julia, jupyter notebook
+          
+          # 只显示前 8 种主要语言
+          plugin_languages_limit: 8
+          
+          # 显示详细信息（百分比等）
+          plugin_languages_details: bytes-size, percentage
+          
+          # 基础配置
+          template: classic
+          base: ""  # 设为空，表示不显示基础信息（头像、名字），只显示语言条
+          config_timezone: America/Los_Angeles
