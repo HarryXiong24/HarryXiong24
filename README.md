@@ -19,12 +19,12 @@ Here are some ideas to get you started:
 #### :raised_hand: About Me
 
 - 🌟 Motto: Nothing is impossible for a willing heart.
-- 🌱 Hobby: Coding & Piano & Reading & 🏀 &  🏊‍♂️ & 🏸 & 🚴‍♂️ & 🎤 & etc.
+- 🌱 Hobby: Coding & Piano & Reading & 🏀 & 🏊‍♂️ & 🏸 & 🚴‍♂️ & 🎤 & etc.
 - 🤟 Blog: [Harry's Blog](https://harryxiong24.github.io)
 - 📫 How to reach me: 💌harryxiong24@gmail.com & 💌harryxiong24@163.com
 - 😊 Glad to meet you!
 
-#### 📈 Languages 
+#### 📈 Languages
 
 <p>
   <code><img height="20" src="./assets/typescript.png"></code>
@@ -33,13 +33,12 @@ Here are some ideas to get you started:
   <code><img height="20" src="./assets/python.png"></code>  
   <code><img height="20" src="./assets/sql.png"></code>
   <code><img height="20" src="./assets/react.png"></code>
-  <code><img height="20" src="./assets/nextjs.png"></code>
   <code><img height="20" src="./assets/nodejs.png"></code>
+  <code><img height="20" src="./assets/nextjs.png"></code>
   <code><img height="20" src="./assets/vue.png"></code>
+  <code><img height="20" src="./assets/java.png"></code>
   <code><img height="20" src="./assets/objective-c.png"></code>
   <code><img height="20" src="./assets/swift.png"></code>
-  <code><img height="20" src="./assets/julia.png"></code>
-  <code><img height="20" src="./assets/java.png"></code>
   <code><img height="20" src="./assets/c.png"></code>
 
 </p>
@@ -47,6 +46,8 @@ Here are some ideas to get you started:
 #### 🛠 Tools
 
 <p>
+  <code><img height="20" src="./assets/claude.png"></code>
+  <code><img height="20" src="./assets/chatgpt.png"></code>
   <code><img height="20" src="./assets/git.png"></code>
   <code><img height="20" src="./assets/docker.png"></code>
   <code><img height="20" src="./assets/linux.png"></code>
@@ -79,6 +80,3 @@ Here are some ideas to get you started:
 
 <!-- **Item**
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats) -->
-
-
-
